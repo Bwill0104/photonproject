@@ -3,7 +3,7 @@ from tkinter import *
 import customtkinter
 from server import handler
 
-class Test:
+class Player_Screen:
     def __init__(self):
 
         
